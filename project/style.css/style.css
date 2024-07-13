@@ -1,0 +1,21 @@
+
+.large-text{
+font-weight: 500;
+font-size: xx-large;
+color: blue;
+}
+.color{
+
+    color:red
+}
+.howitwork{
+
+    width: 1440px;
+    height: 200px;
+    margin-top: 50px;
+   
+}
+.imgSize{
+
+    height: 180px;
+}
